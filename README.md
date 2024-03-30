@@ -1,2 +1,2 @@
 # Oceanus-T4B-binaries
-Oceanus communication protocol for T4B Library
+A custom implementation of the proprietary Oceanus specification for Keystone T4B Chip (on DAB DAB+ FM MonkeyBoard).
